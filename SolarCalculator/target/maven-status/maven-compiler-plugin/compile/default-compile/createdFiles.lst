@@ -1,0 +1,12 @@
+com\solarcalc\model\Appliance.class
+com\solarcalc\io\JsonPersistence.class
+com\solarcalc\ui\MainFrame.class
+com\solarcalc\model\ProjectData.class
+com\solarcalc\ui\ResultsPanel.class
+com\solarcalc\io\CsvExporter.class
+com\solarcalc\ui\LoadInputPanel$1.class
+com\solarcalc\ui\LoadInputPanel.class
+com\solarcalc\model\SystemParameters.class
+com\solarcalc\App.class
+com\solarcalc\calc\SolarCalculator.class
+com\solarcalc\ui\ParametersPanel.class
